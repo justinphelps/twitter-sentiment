@@ -1,4 +1,4 @@
-peoplesmovies
+Twitter Sentiment
 =============
 
 A social media movie sentiment analysis engine.
